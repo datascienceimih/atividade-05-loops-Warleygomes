@@ -48,7 +48,9 @@ for (i in 1:100) {
   }
 }
 ```
-#3 - Execute a mesma tarefa anterior usando um loop while.
+
+# 3) Execute a mesma tarefa anterior usando um loop while.
+
 ```{r}
 n <- 0
 while(n <= 100){
@@ -102,7 +104,7 @@ for (x in 1:10) {
   }
 }
 mt
-}
+```
 
 # 6 - Crie uma matriz vazia de tamanho 10 X 10. Usando for loops, 
 # preencha a matriz de modo que ela fique assim:
@@ -119,4 +121,4 @@ for (a in 1:10) {
 tr
 
 # 7 - Você conseguiu descobrir um loop para exibir na tela a sequência de 
-#fibonacci?
+# fibonacci?
