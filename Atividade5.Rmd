@@ -123,12 +123,12 @@ tr
 # 7 - Você conseguiu descobrir um loop para exibir na tela a sequência de 
 # fibonacci?
 
-fcc = c()
-fcc[1] = 1
-fcc [2] = 1
+fbc = c()
+fbc[1] = 1
+fbc [2] = 1
 
 for (i in 3:20){
-  ficc[i] = ficc[i-1] + ficc[i-2]
+  fbc[i] = fbc[i-1] + fbc[i-2]
 }
 
-fcc
+fbc
